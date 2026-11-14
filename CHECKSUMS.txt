@@ -1,0 +1,2 @@
+70069cbf8799509b7cb8b7a55b20fcd5d2314ce00a3431de52ca4303e94ff15c  data/la-county-condo-age-by-city.csv
+873875039258247a59b0f65191ea18c78183dacd45edc27617fc56cfc8cfe1be  data/la-county-condo-building-register.csv

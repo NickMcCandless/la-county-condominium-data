@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below. Cite the DOI for a fixed version, or the page for the latest data."
+type: dataset
+title: "Los Angeles County Condo Building Register"
+abstract: "2,772 Los Angeles County condominium buildings with 20 or more condo units, compiled by LA Condo HQ from the LA County Assessor's 2026 parcel roll: unit count, year built, living-area range and bedroom mix by address."
+authors:
+  - name: "LA Condo HQ"
+    website: "https://lacondohq.com"
+url: "https://lacondohq.com/condo-buildings"
+repository: "https://github.com/NickMcCandless/la-county-condominium-data"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23924770
+    description: "Dated snapshot of the register CSV archived on Zenodo (deposited 2026-11-03)"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+keywords:
+  - los angeles county
+  - california
+  - condominium
+  - housing
+  - open data
+  - assessor parcel roll
+preferred-citation:
+  type: data
+  title: "Los Angeles County Condo Building Register"
+  authors:
+    - name: "LA Condo HQ"
+      website: "https://lacondohq.com"
+  publisher:
+    name: "Eltherion, LLC"
+  year: 2026
+  date-released: "2026-11-12"
+  url: "https://lacondohq.com/condo-buildings"
+  notes: "Compiled from the Los Angeles County Assessor, Assessor Parcel Data Roll 2026, checked November 12, 2026. Archived snapshot: https://doi.org/10.5281/zenodo.23924770"
+references:
+  - type: report
+    title: "LA County condo age report 2026"
+    authors:
+      - name: "LA Condo HQ"
+    publisher:
+      name: "Eltherion, LLC"
+    year: 2026
+    url: "https://lacondohq.com/research/la-condo-age-report"
+    notes: "From the Los Angeles County Assessor roll checked 2026-10-30. Source of data/la-county-condo-age-by-city.csv."

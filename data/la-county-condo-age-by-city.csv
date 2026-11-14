@@ -1,0 +1,124 @@
+# LA County condo age report: Los Angeles County Assessor, Assessor Parcel Data Roll 2026, checked 2026-10-30. Source: LA Condo HQ (Eltherion, LLC).
+city,condo_projects_20_plus_units,units,projects_built_before_1996,units_built_before_1996,share_of_units
+Los Angeles,1544,83169,1253,67136,0.8072
+Santa Clarita,162,12137,128,9329,0.7686
+Long Beach,182,10128,157,8121,0.8018
+Glendale,134,5685,118,5067,0.8913
+Torrance,117,6672,80,4936,0.7398
+Pasadena,136,5953,93,4105,0.6896
+West Hollywood,77,3944,68,3636,0.9219
+Culver City,42,3669,41,3496,0.9528
+Diamond Bar,63,3569,59,3272,0.9168
+Santa Monica,86,2921,81,2782,0.9524
+Pomona,48,2949,33,2066,0.7006
+Inglewood,56,1975,50,1743,0.8825
+West Covina,38,1915,33,1709,0.8924
+Redondo Beach,37,2122,31,1681,0.7922
+Woodland Hills,7,1435,5,1306,0.9101
+Burbank,48,1824,34,1221,0.6694
+Covina,46,1851,34,1217,0.6575
+Baldwin Park,32,1325,29,1205,0.9094
+Rancho Palos Verdes,20,1286,18,1198,0.9316
+Alhambra,48,2128,32,1172,0.5508
+Beverly Hills,43,1396,32,1053,0.7543
+Arcadia,46,1613,33,1051,0.6516
+Whittier,49,2034,27,1047,0.5147
+Carson,35,1634,21,1016,0.6218
+Azusa,37,1559,21,1014,0.6504
+Paramount,18,960,18,960,1.0000
+Signal Hill,23,1048,21,933,0.8903
+Lancaster,19,898,19,898,1.0000
+Gardena,33,1700,20,854,0.5024
+Hacienda Heights,15,955,12,843,0.8827
+La Mirada,15,1047,11,821,0.7841
+Norwalk,15,819,12,740,0.9035
+Calabasas,18,985,13,727,0.7381
+Downey,15,851,9,666,0.7826
+Glendora,29,1167,17,660,0.5656
+Montebello,13,855,8,642,0.7509
+Agoura Hills,12,618,12,618,1.0000
+Malibu,15,710,12,595,0.8380
+Lomita,17,605,16,585,0.9669
+Westlake Village,7,622,6,581,0.9341
+Palmdale,20,996,12,547,0.5492
+Monterey Park,28,1207,18,545,0.4515
+El Monte,22,879,14,490,0.5575
+Huntington Park,12,535,11,471,0.8804
+Hermosa Beach,9,441,9,441,1.0000
+Lakewood,10,545,7,429,0.7872
+Lawndale,6,404,6,404,1.0000
+Cerritos,7,522,5,399,0.7644
+Hawthorne,27,1376,9,389,0.2827
+Winnetka,6,360,6,360,1.0000
+Monrovia,11,355,11,355,1.0000
+Stevenson Ranch,16,683,12,352,0.5154
+South Pasadena,13,507,10,349,0.6884
+Canyon Country,13,444,10,345,0.7770
+Palos Verdes Peninsula,2,344,2,344,1.0000
+San Gabriel,21,603,14,333,0.5522
+Duarte,10,357,9,332,0.9300
+El Segundo,7,334,6,307,0.9192
+Pico Rivera,12,439,8,306,0.6970
+Rosemead,11,440,6,288,0.6545
+La Puente,7,385,4,261,0.6779
+San Dimas,6,313,4,250,0.7987
+Avalon,2,249,2,249,1.0000
+Temple City,9,340,7,241,0.7088
+Bellflower,14,486,7,216,0.4444
+Hawaiian Gardens,6,183,6,183,1.0000
+Sherman Oaks,11,418,4,183,0.4378
+Walnut,9,414,5,176,0.4251
+Tarzana,1,168,1,168,1.0000
+San Fernando,5,197,4,160,0.8122
+Claremont,17,737,5,153,0.2076
+Newhall,4,148,4,148,1.0000
+Compton,9,481,3,147,0.3056
+Bell Gardens,2,126,2,126,1.0000
+Sierra Madre,4,126,4,126,1.0000
+Rowland Heights,1,125,1,125,1.0000
+Canoga Park,4,189,2,122,0.6455
+La Crescenta,5,164,3,105,0.6402
+Castaic,3,104,3,104,1.0000
+Altadena,2,89,2,89,1.0000
+West Hills,1,85,1,85,1.0000
+La Verne,4,299,1,82,0.2742
+Playa del Rey,4,199,1,80,0.4020
+Reseda,6,182,3,78,0.4286
+Santa Fe Springs,12,476,2,75,0.1576
+Montrose,3,73,3,73,1.0000
+Agoura,1,56,1,56,1.0000
+Studio City,16,436,2,51,0.1170
+Rolling Hills Estates,3,144,1,44,0.3056
+Valinda,1,37,1,37,1.0000
+North Hollywood,9,307,1,30,0.0977
+South Gate,1,30,1,30,1.0000
+Chatsworth,2,93,1,28,0.3011
+Van Nuys,3,83,1,28,0.3373
+Sylmar,5,197,1,27,0.1371
+Wilmington,1,27,1,27,1.0000
+South San Gabriel,1,25,1,25,1.0000
+Valencia,19,1347,1,25,0.0186
+Encino,3,89,1,23,0.2584
+Artesia,3,114,1,22,0.1930
+La Cañada Flintridge,1,21,1,21,1.0000
+Palos Verdes Estates,1,21,1,21,1.0000
+North Hills,4,139,1,20,0.1439
+Commerce,1,31,0,0,0.0000
+Fair Oaks Ranch,1,153,0,0,0.0000
+Granada Hills,1,81,0,0,0.0000
+Harbor City,4,193,0,0,0.0000
+Manhattan Beach,1,28,0,0,0.0000
+Marina del Rey,8,1122,0,0,0.0000
+Northridge,7,1117,0,0,0.0000
+Pacific Palisades,1,52,0,0,0.0000
+Pacoima,5,181,0,0,0.0000
+Playa Vista,29,1342,0,0,0.0000
+Porter Ranch,3,172,0,0,0.0000
+San Pedro,3,115,0,0,0.0000
+Saugus,3,115,0,0,0.0000
+South El Monte,2,103,0,0,0.0000
+Sun Valley,2,62,0,0,0.0000
+Toluca Lake,3,85,0,0,0.0000
+Valley Village,2,41,0,0,0.0000
+Venice,1,224,0,0,0.0000
+Walnut Park,1,50,0,0,0.0000
